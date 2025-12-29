@@ -1,13 +1,10 @@
-/* function addInt(a,b){
-    return a + b;
+#!/usr/bin/node
+
+function add(a, b) {
+  return a + b;
 }
-console.log(addInt(10,12));*/
 
-function addInt(a,b){
-    return a + b;
-}
-    const num1 = 10;
-    const num2 = 12;
+const a = Number(process.argv[2]);
+const b = Number(process.argv[3]);
 
-console.log(addInt(num1,num2));
-
+console.log(add(a, b));
