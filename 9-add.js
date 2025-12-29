@@ -1,8 +1,8 @@
-function addInt(a,b){
+/* function addInt(a,b){
     return a + b;
 }
-console.log(addInt(10,12));
-/*
+console.log(addInt(10,12));*/
+
 function addInt(a,b){
     return a + b;
 }
@@ -10,4 +10,4 @@ function addInt(a,b){
     const num 2 = 12;
 
 console.log(addInt(num1,num2));
-*/
+
