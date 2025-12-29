@@ -7,7 +7,7 @@ function addInt(a,b){
     return a + b;
 }
     const num1 = 10;
-    const num 2 = 12;
+    const num2 = 12;
 
 console.log(addInt(num1,num2));
 
